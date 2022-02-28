@@ -1,4 +1,4 @@
 # Siamese
 MOBILE APPLICATION DEVELOPMENT
 
-แอปพลิเคชั่นบน Andriod สามารถเขย่าเพื่อทำนายเซียมซี
+แอปพลิเคชั่นบน Android สามารถเขย่าเพื่อทำนายเซียมซี
